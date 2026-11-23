@@ -1,0 +1,62 @@
+# FICTIONAL DEMO DATA for Ad Creative Academy Course 804. Brisa is not a real brand.
+review_id,date,rating,scent,country,review_text
+R001,2026-10-29,5,Sea Salt & Neroli,US,"Day 5 I almost gave up. Day 9 I stopped thinking about my armpits entirely. Nobody tells you the first week is weird, but Brisa did, and that's why I stayed."
+R002,2026-10-27,5,Unscented,US,I have tried NINE natural deodorants. Nine. Every single one with baking soda gave me a rash that looked like a burn. This is the first one that doesn't. I could cry.
+R003,2026-10-25,4,Cedar & Fig,US,"Works well, lasts through my 10-hour shifts at the hospital. Only lost a star because the refill ran out faster than I expected, about 5 weeks."
+R004,2026-10-23,5,Sea Salt & Neroli,US,I have a 4pm team meeting every day and I used to sit there with my arms glued to my sides. Now I don't even think about it.
+R005,2026-10-21,3,Coconut & Lime,US,"Smells amazing and works fine but the case hinge feels a bit flimsy. Mine cracked after two months. Customer service sent a new one though, so fair."
+R006,2026-10-19,5,Unscented,US,My boyfriend stole mine. Then he bought his own. Then he stole mine again.
+R007,2026-10-17,2,Sea Salt & Neroli,US,"The first two weeks I smelled worse than ever. I get that it's the adjustment thing but I work in sales, I can't smell for two weeks. Stopped using it."
+R008,2026-10-15,5,Cedar & Fig,US,I cycle 14km to work. I shower at the office but I used to still smell by lunch. Not anymore. Genuinely didn't think natural could do this.
+R009,2026-10-13,4,Sea Salt & Neroli,US,"Lovely product, the scent is subtle, not perfume-y. Would be 5 stars if refills were a bit cheaper."
+R010,2026-10-11,5,Unscented,US,"Pregnant and reading every label like a detective. Short ingredient list, no fragrance, no drama. Exactly what I needed."
+R011,2026-10-09,1,Coconut & Lime,US,Ordered in October and it was out of stock but the site let me order anyway. Waited three weeks. Refunded but annoyed.
+R012,2026-10-07,5,Sea Salt & Neroli,US,No white marks on my black work dresses. That alone is worth it.
+R013,2026-10-05,4,Unscented,US,"Put it on right after shaving and it didn't sting. Every other natural one burned. Wish the site said this clearly, I was scared to try."
+R014,2026-10-03,5,Cedar & Fig,US,"I'm a nurse. Twelve-hour shifts, masks, stress. This is the first deodorant I've used that is still working at hour ten."
+R015,2026-10-01,3,Sea Salt & Neroli,US,Good but not magic. On really hot days I reapply at lunch. Still better than the last three I tried.
+R016,2026-09-29,5,Sea Salt & Neroli,US,"The refill system is so satisfying. Click, done. I've stopped buying plastic sticks entirely."
+R017,2026-09-27,4,Cedar & Fig,US,"My husband and I both use this one. The smell is not girly, not manly, just clean. Would like a bigger size."
+R018,2026-09-25,5,Unscented,US,"I have hidradenitis-prone skin and I'm super careful. This one hasn't caused a single flare. Talked to my dermatologist first, she said go for it."
+R019,2026-09-23,2,Sea Salt & Neroli,US,"Works, but the paper refill got soft in my humid bathroom and was hard to push up. Keep it out of the shower room."
+R020,2026-09-21,5,Coconut & Lime,US,Smells like a holiday. My colleague asked what perfume I was wearing. It was my deodorant.
+R021,2026-09-19,4,Sea Salt & Neroli,US,Took about 8 days for my body to adjust. After that it's been great. The day-by-day guide email helped a lot.
+R022,2026-09-17,5,Unscented,US,As a physio I'm close to people all day. This is the first natural one I trust at work.
+R023,2026-09-15,3,Cedar & Fig,US,Scent fades after a few hours but protection lasts. I'd like the scent to be a bit stronger.
+R024,2026-09-13,5,Sea Salt & Neroli,US,I bought it because of the case colors honestly. I stayed because it works. The coral one lives in my gym bag.
+R025,2026-09-11,1,Sea Salt & Neroli,US,Gave me red bumps after 3 days. Maybe I'm allergic to something in it. Switched back.
+R026,2026-09-09,5,Unscented,US,I've been through the 'detox your pits' nonsense with other brands. Brisa just told me what would happen and when. Honest brand.
+R027,2026-09-07,4,Sea Salt & Neroli,US,"Subscription is easy to skip, which I appreciate. Less easy to find the skip button on mobile."
+R028,2026-09-05,5,Cedar & Fig,US,Hot yoga three times a week. Still fresh on the drive home. My car thanks you.
+R029,2026-09-03,5,Sea Salt & Neroli,US,I stopped carrying a spare deodorant in my bag. That's how I know it works.
+R030,2026-09-01,3,Unscented,US,"Works well but it's a bit hard to apply when it's cold, you have to warm it against your skin for a second."
+R031,2026-08-30,5,Sea Salt & Neroli,US,"I teach 30 teenagers all day. If there's a smell, they will tell you. They have not told me."
+R032,2026-08-28,4,Coconut & Lime,US,"Love it. Please bring it back in stock, I'm on my last refill and rationing it like it's gold."
+R033,2026-08-26,5,Unscented,US,After chemo my skin reacts to everything. This doesn't. Thank you for making something gentle that still works.
+R034,2026-08-24,2,Cedar & Fig,US,"Refill arrived two weeks late to Hawaii, second time now. Product is fine, shipping isn't."
+R035,2026-08-22,5,Sea Salt & Neroli,US,"The calendar ad got me. 'Day one, day three, day seven.' It happened exactly like that."
+R036,2026-08-20,4,Sea Salt & Neroli,US,"Stays on through a full wedding day of dancing. Reapplied once before the speeches, just in case."
+R037,2026-08-18,5,Unscented,US,"Men's deodorant always smelled like a locker room to me. This smells like nothing, which is the point."
+R038,2026-08-16,3,Sea Salt & Neroli,US,It's good but $28 for the starter kit is a lot when you're not sure it'll work. Glad I tried it though.
+R039,2026-08-14,5,Cedar & Fig,US,Menopause hot flashes are no joke. This is the only natural one that keeps up.
+R040,2026-08-12,4,Unscented,US,Bought it after reading the reviews from people with sensitive skin. Can confirm. Only 4 stars because I miss having a scent.
+R041,2026-08-10,5,Sea Salt & Neroli,US,I work in a restaurant kitchen. 40 degrees by the grill. Still works. I'm shocked.
+R042,2026-08-08,1,Cedar & Fig,US,"Didn't work for me at all. By noon I could smell myself. Maybe my body chemistry. Returned it and they refunded fast, at least."
+R043,2026-08-06,5,Sea Salt & Neroli,US,I love that the refills are paper. My bathroom bin used to be full of plastic deodorant sticks.
+R044,2026-08-04,4,Unscented,US,Great on sensitive skin. Would love a travel size for my carry-on.
+R045,2026-08-02,5,Coconut & Lime,US,"Summer in Texas. 100 degrees. Walked the dog at noon. Came home, still fine. That's the review."
+R046,2026-07-31,5,Sea Salt & Neroli,US,"First week I smelled a bit more than usual, exactly like they warned. After that, zero issues. Trust the process."
+R047,2026-07-29,3,Sea Salt & Neroli,US,"It works but I don't love the texture, it's a bit sticky at first. Dries fine after a minute."
+R048,2026-07-27,5,Unscented,US,My 4pm client pitches used to come with a side of panic. Now it's just the normal kind of panic.
+R049,2026-07-25,4,Cedar & Fig,US,"Solid. I run in the morning, shower, put it on, and I'm fine until evening. The case feels premium."
+R050,2026-07-23,5,Sea Salt & Neroli,US,"I ignored all the 'natural' deodorants because I thought they didn't work. My sister made me try this. She was right, annoyingly."
+R051,2026-07-21,2,Unscented,US,"Fine but not better than my old one, and more expensive. Might go back."
+R052,2026-07-19,5,Sea Salt & Neroli,US,The 'your first week' guide should be required reading. It saved me from quitting on day 4.
+R053,2026-07-17,4,Coconut & Lime,US,Best scent of the four. Please make it permanent.
+R054,2026-07-15,5,Cedar & Fig,US,"Mail carrier here. 20,000 steps a day. Works."
+R055,2026-07-13,3,Sea Salt & Neroli,US,"Good product, but the subscription emails are a bit much. Three emails for one shipment."
+R056,2026-07-11,5,Unscented,US,"Eczema under my arms for years. Two months with Brisa and it's calmed down. Not saying it's medicine, just saying it doesn't make it worse."
+R057,2026-07-09,4,Sea Salt & Neroli,US,My teenage son uses it now too. Took some convincing because the case is 'too pretty'. He chose Sage.
+R058,2026-07-07,5,Sea Salt & Neroli,US,"I stopped checking my armpits in the bathroom at work. If you know, you know."
+R059,2026-07-05,5,Cedar & Fig,US,"Bought it for the refill idea, stayed because it's genuinely the best one I've used."
+R060,2026-07-03,4,Unscented,US,"Great, but the site should say more clearly which one is for sensitive skin. Took me a while to figure out it's Unscented."

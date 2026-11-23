@@ -1,0 +1,32 @@
+[
+  {
+    "id": "EXAMPLE-01",
+    "file": "images/EXAMPLE-01.png",
+    "ad_type": "key benefits",
+    "awareness_levels": ["problem aware", "solution aware"],
+    "point_of_view": "brand",
+    "best_for": "showing three benefits at once",
+    "copy_slots": {"headline": "max 7 words", "callouts": "3 x max 4 words"},
+    "notes": "Example entry. Replace with your own reference and image."
+  },
+  {
+    "id": "EXAMPLE-02",
+    "file": "images/EXAMPLE-02.png",
+    "ad_type": "native review",
+    "awareness_levels": ["solution aware", "product aware"],
+    "point_of_view": "customer",
+    "best_for": "one vivid customer quote with its source ID",
+    "copy_slots": {"quote": "max 25 words", "attribution": "source ID only, no customer names"},
+    "notes": "Example entry. Replace with your own reference and image."
+  },
+  {
+    "id": "EXAMPLE-03",
+    "file": "images/EXAMPLE-03.png",
+    "ad_type": "promo",
+    "awareness_levels": ["most aware"],
+    "point_of_view": "brand",
+    "best_for": "one offer the brand allows, stated plainly",
+    "copy_slots": {"headline": "max 6 words", "offer": "max 8 words", "cta": "max 3 words"},
+    "notes": "Example entry. Replace with your own reference and image."
+  }
+]

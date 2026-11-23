@@ -1,0 +1,22 @@
+# FICTIONAL DEMO DATA for Ad Creative Academy Course 804. Brisa is not a real brand.
+ad_id,ad_name,campaign,format,persona,angle,awareness_level,offer,launched,spend_eur_30d,purchases_30d,cpa_eur,roas_first_order,hook_rate,hold_rate,ctr_pct,frequency,status
+AD-01,Day one day three day seven (Marta calendar),Prospecting,Creator video (talking head),Week-One Switcher,Honest adjustment week,Solution aware,Starter kit,2026-06-12,11840,412,28.74,1.52,0.34,0.11,1.41,3.1,Active
+AD-02,"Marble studio shoot, cases lineup",Prospecting,Studio video,Low-Waste Refiller,Beautiful refill ritual,Product aware,Starter kit,2026-04-02,1260,21,60.0,0.71,0.18,0.06,0.62,1.4,Paused
+AD-03,4pm meeting arms down,Prospecting,Static (text + product),4pm Meeting Sweater,Confidence at work,Problem aware,Starter kit,2026-09-18,3420,109,31.38,1.39,,,1.12,1.9,Active
+AD-04,Retargeting 30% off cart,Retargeting,Static (offer),Mixed,Discount,Most aware,30% off,2026-10-05,410,92,4.46,6.03,,,2.95,4.8,Active
+AD-05,Nine deodorants later (sensitive skin),Prospecting,Creator video (testimonial),Sensitive-Skin Refugee,No baking-soda rash,Solution aware,Starter kit,2026-08-22,5210,176,29.6,1.49,0.29,0.1,1.33,2.2,Active
+AD-06,Ingredients close-up,Prospecting,Static (ingredient callout),Ingredient Checker,Short ingredient list,Solution aware,Starter kit,2026-09-02,980,24,40.83,1.05,,,0.71,1.6,Paused
+AD-07,Paper refill vs plastic stick,Prospecting,Static (us vs them),Low-Waste Refiller,Plastic-free refills,Solution aware,Refill subscription,2026-07-14,1860,48,38.75,1.21,,,0.88,2.0,Paused
+AD-08,Boyfriend stole my deodorant,Test,Creator video (skit),Partner Who Stole It,Comedy,Unaware,Starter kit,2026-10-12,620,17,36.47,1.01,0.41,0.14,1.62,1.3,Active
+AD-09,Cycle to work test,Prospecting,Creator video (demo),Gym-to-Desk Commuter,Performance proof,Problem aware,Starter kit,2026-08-01,2740,86,31.86,1.33,0.27,0.09,1.19,2.4,Active
+AD-10,Coconut & Lime scent drop,Prospecting,Static (product),Mixed,New scent,Product aware,Starter kit,2026-07-28,1540,44,35.0,1.17,,,0.96,2.6,Paused (out of stock)
+AD-11,Aluminum-free explained,Prospecting,Creator video (education),Ingredient Checker,Education,Unaware,Starter kit,2026-09-09,1330,33,40.3,1.02,0.22,0.08,0.84,1.7,Paused
+AD-12,Nurse 12-hour shift,Prospecting,Creator video (testimonial),4pm Meeting Sweater,Long-shift proof,Problem aware,Starter kit,2026-10-01,2180,74,29.46,1.46,0.31,0.12,1.28,1.8,Active
+AD-13,Subscribe and save explainer,Prospecting,Static (offer),Low-Waste Refiller,Subscription value,Product aware,Refill subscription,2026-08-15,1120,29,38.62,1.64,,,0.93,2.1,Active
+AD-14,Case colors carousel,Prospecting,Carousel,Mixed,Aesthetic,Product aware,Starter kit,2026-09-24,890,23,38.7,1.12,,,1.02,1.5,Active
+AD-15,Hot flashes (menopause),Test,Creator video (testimonial),Mixed,Menopause sweat,Problem aware,Starter kit,2026-10-18,540,16,33.75,1.27,0.3,0.11,1.21,1.2,Active
+AD-16,White towel lifestyle,Prospecting,Studio video,Mixed,Freshness,Unaware,Starter kit,2026-05-10,1720,31,55.48,0.79,0.16,0.05,0.58,1.9,Paused
+AD-17,Founder: why I made Brisa,Prospecting,Founder video,Mixed,Founder story,Solution aware,Starter kit,2026-09-30,1480,43,34.42,1.24,0.25,0.09,1.04,1.6,Active
+AD-18,"FAQ: stains, vegan, shaving",Prospecting,Static (FAQ),Sensitive-Skin Refugee,Objection handling,Product aware,Starter kit,2026-10-20,610,19,32.11,1.33,,,1.08,1.2,Active
+AD-19,3-pack value,Prospecting,Static (offer),Low-Waste Refiller,Value,Most aware,3-pack $30,2026-10-22,430,15,28.67,1.71,,,1.36,1.1,Active
+AD-20,Teacher: 30 teenagers,Test,Creator video (testimonial),4pm Meeting Sweater,Social fear,Problem aware,Starter kit,2026-10-25,310,9,34.44,1.2,0.33,0.1,1.3,1.0,Active
