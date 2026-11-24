@@ -1,5 +1,5 @@
 # FICTIONAL DEMO DATA for Ad Creative Academy Course 804. Brisa is not a real brand.
-ad_id,ad_name,campaign,format,persona,angle,awareness_level,offer,launched,spend_eur_30d,purchases_30d,cpa_eur,roas_first_order,hook_rate,hold_rate,ctr_pct,frequency,status
+ad_id,ad_name,campaign,format,persona,angle,awareness_level,offer,launched,spend_usd_30d,purchases_30d,cpa_usd,roas_first_order,hook_rate,hold_rate,ctr_pct,frequency,status
 AD-01,Day one day three day seven (Marta calendar),Prospecting,Creator video (talking head),Week-One Switcher,Honest adjustment week,Solution aware,Starter kit,2026-06-12,11840,412,28.74,1.52,0.34,0.11,1.41,3.1,Active
 AD-02,"Marble studio shoot, cases lineup",Prospecting,Studio video,Low-Waste Refiller,Beautiful refill ritual,Product aware,Starter kit,2026-04-02,1260,21,60.0,0.71,0.18,0.06,0.62,1.4,Paused
 AD-03,4pm meeting arms down,Prospecting,Static (text + product),4pm Meeting Sweater,Confidence at work,Problem aware,Starter kit,2026-09-18,3420,109,31.38,1.39,,,1.12,1.9,Active
